@@ -1997,7 +1997,7 @@ class NameNControls extends StatelessWidget {
                             fadingEdgeStartFraction: 0.05,
                             startAfter: const Duration(seconds: 2),
                             style: TextStyle(
-                              fontSize: titleBoxHeight / 2.75,
+                              fontSize: titleBoxHeight / 3.75,
                               fontWeight: FontWeight.bold,
                               // color: Theme.of(context).accentColor,
                             ),
